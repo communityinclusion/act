@@ -1,0 +1,28 @@
+a.title {font-size: 1.2em; text-decoration: none; color:#5E9732;}
+
+h2 {color: #0077AF;}
+
+.usa-accordion-button {color:#0077AF; border: solid 1px #5E9732;}
+
+.usa-section {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.img-responsive  {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.boards { border-bottom: 2px solid #0077AF;}
+
+@media only screen and (min-width: 768px) {
+    /* tablets and desktop */
+.spacer {padding-top: 2em;}
+}
+
+a.define {text-decoration-style: dotted;}
+
+.usa-footer-secondary_section {background-color:#1074AC;}
+
