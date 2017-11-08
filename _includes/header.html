@@ -1,13 +1,16 @@
 <div class="usa-grid boards">
             <div class="usa-width-two-thirds spacer">
                         <h1><a class="title" href="/index.html">Agency Change Toolkit</a></h1>                  
-                        
+                        <h4 class="jc_tagline">Ten Elements of Organizational Transformation </h4>
+                          
             </div>
             <div class="usa-width-one-third spacer">
               <img src="/img/tw.png" alt="Think Work" class="img-responsive">
             </div>
             
           </div>
+          {% if page.title != null %}
 <section class="usa-grid usa-section">
-      {% if page.title != null %} <h1>{{ page.title }}</h1> {% endif %}
+     <h1>{{ page.title }}</h1> 
 </section>
+{% endif %}

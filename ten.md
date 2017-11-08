@@ -20,7 +20,7 @@ Think as creatively and broadly as possible. You can take advantage of partnersh
 
 ## See this element in practice
 
-<p><b><a href="ten_pp_marcy.html">The Arc of Westchester: Creative Partnership with Mercy College</a></b></p>
+<p><b><a href="ten_pp_mercy.html">The Arc of Westchester: Creative Partnership with Mercy College</a></b></p>
 
 
 

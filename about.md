@@ -1,10 +1,9 @@
 ---
-title: About
+title:
 
 layout: default
 ---
 
-## Background
 
 The toolkit framework and content is based on findings from two research activities: 
 
@@ -55,7 +54,7 @@ In the second round, the panelists were then asked to rank the elements accordin
 
 Learn more about the Delphi process findings. [LINK TO DELPHI BRIEF IN SEPARATE DOC]
 <hr>
-<h2 id="case_study"> Case Study Background</h2>
+<h2 id="case_study">Case Study Research</h2>
 
 The following explains 
 
@@ -83,9 +82,9 @@ Learn more about the findings of the screening interviews. [LINK TO SCREENING BR
 
 Overview of the four finalists
 -	[The Arc of Westchester](https://www.arcwestchester.org/)
--	[At Work](LINK TO http://www.atworkwa.org/)
--	[Work Inc.](LINK TO http://www.workinc.org/)
--	[Penn-Mar](LINK TO http://www.penn-mar.org/)
+-	[At Work!](http://www.atworkwa.org/)
+-	[Work Inc.](http://www.workinc.org/)
+-	[Penn-Mar Human Services](http://www.penn-mar.org/)
 
 #### Site visits and the data collection process
 

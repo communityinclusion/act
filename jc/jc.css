@@ -22,7 +22,8 @@ h2 {color: #0077AF;}
 .spacer {padding-top: 2em;}
 }
 
-a.define {text-decoration-style: dotted;}
+a.define {text-decoration-style: dotted; color: black;}
 
 .usa-footer-secondary_section {background-color:#1074AC;}
 
+.jc_tagline {color: #0077AF; margin-top:0px; padding-top:0px;}
