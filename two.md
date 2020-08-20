@@ -25,3 +25,4 @@ A successful provider’s work is never done. Your culture needs to emphasize co
 
 Successful providers are not afraid of failure. Instead, they reframe challenges as educational experiences that foster a culture of learning. You’ll need to stay abreast of the latest advancements in field, continually innovate, and explore new directions. This includes listening to what your customers want, and being flexible enough to pivot from your established agenda.
 
+<div id="bigger"><p><strong>To learn more, see these <a href="two_more.html">suggested resources and provider promising practices</a></strong></p></div>
