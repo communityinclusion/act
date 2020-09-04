@@ -21,3 +21,4 @@ Combining formal training opportunities with one-to-one and small-group options 
 ## Seek out reputable capacity-building resources.
 It’s worth it to invest in trainers with experience in both the process of transformation and the latest best practices in job development. Explore accredited programs for professional credentialing, and access training delivered by the American Network for Community Options and Resources (ANCOR), the National Alliance for Direct Support Professionals (NADSP), and the Association of Community Rehabilitation Educators (ACRE).
 
+<div id="bigger"><p><strong>To learn more, see these <a href="six_more.html">suggested resources and provider promising practices</a></strong></p></div>

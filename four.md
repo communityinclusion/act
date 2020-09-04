@@ -23,4 +23,4 @@ A campaign is a thoughtfully constructed series of marketing materials. This may
 
 A positively framed campaign can be a unifying effort, and can create a common language across your organization. Instead of “closing the workshop,” for example, you might describe “new business models with new opportunities for learning and living.”
 
-
+<div id="bigger"><p><strong>To learn more, see these <a href="four_more.html">suggested resources and provider promising practices</a></strong></p></div>
