@@ -18,3 +18,4 @@ To create your strategic plan and goals, you’ll need to form a team or task fo
 ## Invest in external expertise.
 It might be help to consider hiring a consultant to guide and support your strategic planning process. This consultant may work in collaboration with your multi-stakeholder strategic planning team, but they’ll also bring their own skills and perspective. It can be well worth the investment to have an external, objective person with lots of strategic planning experience “in your corner.”
 
+<div id="bigger"><p><strong>To learn more, see these <a href="one_more.html">suggested resources and provider promising practices</a></strong></p></div>
