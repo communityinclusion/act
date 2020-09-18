@@ -18,4 +18,4 @@ You can use data to make informed decisions about service gaps or inefficiencies
 ## Don’t just collect data, share it!
 You’ll get the most “bang for your buck” when you share data with a range of audiences, including board members, direct support professionals, and individuals and families. This can help your agency to promote engagement and buy-in to the transformation process, and to celebrate successes.
 
-
+<div id="bigger"><p><strong>To learn more, see these <a href="eight_more.html">suggested resources and provider promising practices</a></strong></p></div>

@@ -22,3 +22,4 @@ layout: default
 3. Engage employers using what they value most: the bottom line. To get employers excited to hire, you’ll need to sell employee skill sets that meet a business need. This isn’t about charity or “doing the right thing”--it’s about the health of their company. Identify areas of employer inefficiency to show how hiring an individual with a disability will pay off.
 
 
+<div id="bigger"><p><strong>To learn more, see these <a href="seven_more.html">suggested resources and provider promising practices</a></strong></p></div>
