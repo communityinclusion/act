@@ -18,10 +18,10 @@ layout: default
     </li>
     <li><a href="https://hr.emory.edu/eu/_includes/documents/sections/performance-management/professional-development-plan-form.docx">Professional Development Plan</a> is a template to help employees plan their personal and career growth. It can be
         customized to an organization’s needs.</li>
-    <li><a href="Career Development Plan Worksheet is a template to help identify employees’ needs
+    <li><a href="http://thinkwork.org/files/s3/Career_Development_Plan_Worksheet_.docx">Career Development Plan Worksheet</a> is a template to help identify employees’ needs
         and create associated action plan for reaching professional goals.</li>
-    <li>APSE Competencies are based on the work of APSE’s various workgroups on certification, quality indicators, and
+    <li><a href="https://www.apse.org/wp-content/uploads/2014/01/APSE-Supported-Employment-Competencies11.pdf">APSE Competencies</a> are based on the work of APSE’s various workgroups on certification, quality indicators, and
         competencies.</li>
-    <li>2013 ACRE Competencies: Employment Services is an overview of the ACRE standards.</li>
+    <li><a href="http://www.acreducators.org/sites/default/files/acre_standards_F4.pdf">2013 ACRE Competencies: Employment Services</a> is an overview of the ACRE standards.</li>
 
 </ol>

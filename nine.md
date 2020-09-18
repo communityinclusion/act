@@ -12,3 +12,4 @@ The supports provided within your day program can help people build skills, expl
 ## Make employment everybody’s business by breaking down silos.
 Create a more integrated model of service delivery. Break down departmental silos, and make the goal of integrated employment every staff person’s business. For example, residential staff can be involved in the discovery and exploration process, and if trained appropriately, can provide job-coaching supports. At the leadership and organizational level, build a culture where staff people across all departments are considered informal job developers.
 
+<div id="bigger"><p><strong>To learn more, see these <a href="nine_more.html">suggested resources and provider promising practices</a></strong></p></div>

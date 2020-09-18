@@ -17,17 +17,4 @@ The more diverse the professional contacts, the better. You can even establish a
 ## Use whatever resources each partner can bring to the transformation effort.  
 Think as creatively and broadly as possible. You can take advantage of partnerships for exploration and Discovery opportunities, accessing support services that build job seeker human and social capital, volunteering and internship options, and financing. 
 
-## See this element in practice
-
-<p><b><a href="ten_pp_mercy.html">The Arc of Westchester: Creative Partnership with Mercy College</a></b></p>
-
-## Resources
-
-<p><a href="http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf">Asset Mapping</a> - UCLA Center for Health Policy Research  </p>
-<p><a href="https://conservancy.umn.edu/bitstream/handle/11299/172853/NCSETInfoBrief_2.1.pdf?sequence=1&isAllowed=y">Community Resource Mapping: A 
-Strategy for Promoting Successful 
-Transition for Youth with 
-Disabilities</a>  
-- National Center on Secondary Education and Transition </p>
-<p><a href="https://www.ojjdp.gov/resources/files/toolkit1final.pdf">Build Effective Community Partnerships</a> - Office of Juvenile Justice and
-Delinquency Prevention </p>
+<div id="bigger"><p><strong>To learn more, see these <a href="ten_more.html">suggested resources and provider promising practices</a></strong></p></div>
