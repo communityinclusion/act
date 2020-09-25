@@ -1,6 +1,5 @@
 ---
-title: ELEMENT THREE - get started
-
+title: ELEMENT THREE - ACTIVE PERSON CENTERED JOB PLACEMENT
 layout: default
 ---
 
@@ -19,4 +18,4 @@ You can use community exploration opportunities to help people develop an employ
 ## Apply best practices in job developing and job finding, one person at a time.
 You’ll see the best results when you apply the best practices. This means using the job developer’s professional networks, as well as the personal networks of the individual and the planning team. Best practices also included person-centered Discovery and planning, volunteering, informational interviews, time-limited work trials, and other opportunities to ensure a strong job match. This also means offering post-hire supports to ensure ongoing workplace accommodations.
 
-
+<div id="bigger"><p><strong>To learn more, see these <a href="three_more.html">suggested resources and provider promising practices</a></strong></p></div>
