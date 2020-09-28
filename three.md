@@ -1,5 +1,5 @@
 ---
-title: ELEMENT THREE - GETTING STARTED
+title: ELEMENT THREE - Get Started
 layout: default
 ---
 
