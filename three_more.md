@@ -3,7 +3,7 @@ title: ELEMENT THREE - ACTIVE PERSON CENTERED JOB PLACEMENT
 layout: default
 ---
 
-## Resources
+## Resources 
 
 <p><a href="https://www.dol.gov/sites/dolgov/files/odep/pdf/2011cecm.pdf">Customized Employment: Applying Practical Solutions </a>provides an overview of customized employment,including job seeker exploration, creating a blueprint for job development, and negotiating withemployers.</p>
 <p><a href="https://scholarworks.umb.edu/ici_institutebrief/8/">30-Day Placement Plan: A Road Map to Employment </a>breaks the job-search process down into concrete, manageable tasks.</p>
