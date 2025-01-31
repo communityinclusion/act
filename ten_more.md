@@ -1,5 +1,5 @@
 ---
-title: ELEMENT TEN - community partnerships
+title: ELEMENT TEN - Community Partnerships
 layout: default
 ---
 
