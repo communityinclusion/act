@@ -1,5 +1,5 @@
 ---
-title: ELEMENT TEN - MULTIPLE AND DIVERSE COMMUNITY PARTNERSHIPS
+title: ELEMENT TEN - community partnerships
 layout: default
 ---
 
